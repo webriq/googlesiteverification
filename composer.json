@@ -1,0 +1,40 @@
+{
+    "name": "webriq/gridguyz-googlesiteverification",
+    "description": "GoogleSiteVerification module for Gridguyz",
+    "license": "CC-BY-SA-3.0",
+    "keywords": [
+        "gridguyz",
+        "module",
+        "google-site-verification",
+        "google",
+        "site-verification"
+    ],
+    "homepage": "http://gridguyz.com/",
+    "authors": [
+        {
+            "name": "Mihály Farkas",
+            "email": "mihaly.farkas@megaweb.hu",
+            "homepage": "http://gridguyz.com/",
+            "role": "Developer"
+        },
+        {
+            "name": "David Pozsar",
+            "email": "david.pozsar@megaweb.hu",
+            "homepage": "http://gridguyz.com/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "dev@megaweb.hu",
+        "source": "https://github.com/webriq/gridguyz-googlesiteverification"
+    },
+    "require": {
+        "php": ">=5.4",
+        "webriq/gridguyz-core": "*"
+    },
+    "autoload": {
+        "classmap": [
+            "Module.php"
+        ]
+    }
+}
