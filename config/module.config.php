@@ -24,7 +24,7 @@ return array(
                     'textDomain'    => 'google',
                     'elements'      => array(
                         'id'        => array(
-                            'key'   => 'view_manager.head_defaults.headMeta.googleSiteVerification.content',
+                            'key'   => 'view_manager.head_defaults.headMeta.google-site-verification.content',
                             'type'  => 'ini',
                         ),
                     ),
