@@ -27,7 +27,7 @@
     ],
     "support": {
         "email": "dev@megaweb.hu",
-        "source": "https://github.com/webriq/gridguyz-googlesiteverification"
+        "source": "https://github.com/gridguyz/googlesiteverification"
     },
     "require": {
         "php": ">=5.4",
