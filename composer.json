@@ -49,8 +49,6 @@
         "display-description": {
             "en": "When you install this function, you can tap into the myriad of Google Apps. Just to name one, upon going through the verification, you can authenticate the ownership of your domain and you can link your website to a number of Google business applications.\n\nYou can admin all this from a separate admin panel."
         },
-        "modules": {
-            "Grid\\GoogleSiteVerification": "Google site-verification"
-        }
+        "module": "Grid\\GoogleSiteVerification"
     }
 }
