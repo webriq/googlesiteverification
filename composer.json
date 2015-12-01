@@ -1,38 +1,32 @@
 {
-    "name": "gridguyz/googlesiteverification",
-    "type": "gridguyz-module",
-    "description": "GoogleSiteVerification module for Gridguyz CMS",
-    "license": "CC-BY-SA-3.0",
+    "name": "webriqcms/googlesiteverification",
+    "type": "webriqcms-module",
+    "description": "GoogleSiteVerification module for WebriQ CMS",
+    "license": "BSD-3-Clause",
     "keywords": [
-        "gridguyz",
+        "webriqcms",
         "module",
         "google-site-verification",
         "google",
         "site-verification"
     ],
-    "homepage": "http://gridguyz.com/",
+    "homepage": "http://webriq.com/",
     "authors": [
         {
-            "name": "Mihály Farkas",
-            "email": "mihaly.farkas@megaweb.hu",
-            "homepage": "http://gridguyz.com/",
-            "role": "Developer"
-        },
-        {
-            "name": "David Pozsar",
-            "email": "david.pozsar@megaweb.hu",
-            "homepage": "http://gridguyz.com/",
-            "role": "Developer"
+            "name": "WebriQ Dev Team",
+            "email": "info@webriq.com",
+            "homepage": "http://webriq.com/",
+            "role": "Development Team"
         }
     ],
     "support": {
-        "email": "dev@megaweb.hu",
-        "source": "https://github.com/gridguyz/googlesiteverification"
+        "email": "info@webriq.com",
+        "source": "https://github.com/webriq/googlesiteverification"
     },
     "require": {
         "php": ">=5.4",
-        "gridguyz/module-installer": "*",
-        "gridguyz/core": "*"
+        "webriqcms/module-installer": "*",
+        "webriqcms/core": "*"
     },
     "autoload": {
         "classmap": [
@@ -41,7 +35,7 @@
     },
     "extra": {
         "display-icon": {
-            "63": "https://raw.github.com/gridguyz/googlesiteverification/%reference%/icons/63x63.png"
+            "63": "https://raw.github.com/webriq/googlesiteverification/%reference%/icons/63x63.png"
         },
         "display-name": {
             "en": "Google Site Verification"
