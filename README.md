@@ -1,5 +1,5 @@
-GoogleSiteVerification module for WebriQ CMA
-==========================================
+GoogleSiteVerification module for WebriQ CMS
+============================================
 
 With GoogleSiteVerification module, you can verify to many Google services,
 that your site is really yours. All you need is to set your Google's site
